@@ -1,5 +1,8 @@
-🌱 I’m currently learning ...
-
+<h3>🌱 I’m currently learning ...</h3>
+<hr/>
+<li>
+  멀티캠퍼스 -  웹 서비스 개발자 취업캠프(23.02~23.07)
+</li>
 <!--
 **SeosoyoungE/SeosoyoungE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
