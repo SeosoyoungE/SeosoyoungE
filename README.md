@@ -1,4 +1,4 @@
-<h3> I’m currently learning ... </h3>
+<h3> I want to be a front-end developer </h3>
 <hr/>
 <li>
   🌱 멀티캠퍼스 -  웹 서비스 개발자 취업캠프(23.02~23.07)
