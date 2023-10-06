@@ -7,4 +7,4 @@
 
 
 ## STUDY BLOG
-https://soyoung-e.tistory.com/
+[<div align="center"><img src="https://img.shields.io/badge/Tstory-000000?style=for-the-badge&logo=tistory&logoColor=white"></div>](https://soyoung-e.tistory.com/)
