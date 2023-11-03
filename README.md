@@ -13,7 +13,7 @@
 </br>
 
 ## STUDY BLOG
-</br>[><img src="https://img.shields.io/badge/Tstory-000000?style=for-the-badge&logo=tistory&logoColor=white"></div>](https://soyoung-e.tistory.com/)
+</br>[<img src="https://img.shields.io/badge/Tstory-000000?style=for-the-badge&logo=tistory&logoColor=white"></div>](https://soyoung-e.tistory.com/)
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=soyoung-e&theme=default)](https://soyoung-e.tistory.com/)
 
 </div>
