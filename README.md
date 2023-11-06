@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=timeGradient&height=300&section=header&text=SeosoyoungE%20&desc=(Noob)&fontSize=50&animation=blinking&fontAlignY=38&descAlign=90&descSize=12)
-<div align="center">
+<div align="left">
  </br>
   
 ## STACKS📚
@@ -13,8 +13,7 @@
 ## STUDY BLOG
 [<img src="https://img.shields.io/badge/Tstory-000000?style=for-the-badge&logo=tistory&logoColor=white"></div>](https://soyoung-e.tistory.com/)
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=soyoung-e&theme=default)](https://soyoung-e.tistory.com/)
-
-</div>
 </br>
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=egg&color=timeGradient&height=300&section=footer&fontSize=50&animation=blinking&fontAlignY=38&descAlign=62&rotate=180)
