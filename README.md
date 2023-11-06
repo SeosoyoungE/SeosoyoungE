@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=timeGradient&height=300&section=header&text=SeosoyoungE%20&desc=(Noob)&fontSize=50&animation=blinking&fontAlignY=38&descAlign=90&descSize=12)
-<div align="left">
+<div align="center">
  </br>
   
 ## STACKS📚
